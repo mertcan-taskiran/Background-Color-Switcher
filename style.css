@@ -1,0 +1,29 @@
+.button {
+    cursor: pointer;
+    width: 70px;
+    height: 40px;
+}
+
+#beige{
+    background: #F5F5DC;
+}
+
+#deepskyblue{
+    background: deepskyblue;
+}
+
+#cadetblue {
+    background: #5F9EA0;
+}
+
+#darkgoldenrod {
+    background: #B8860B;
+}
+
+#darkorange {
+    background: #FF8C00;
+}
+
+#lightgreen {
+    background: #90EE90;
+}  
